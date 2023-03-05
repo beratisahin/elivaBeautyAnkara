@@ -10,7 +10,7 @@ import ContactMailIcon from '@material-ui/icons/ContactMail';
 
 
 function Iletisim() {
-  useDocumentTitle("İletişim - Ankara Lavinya Golden Güzellik Merkezi ");
+  useDocumentTitle("İletişim - Ankara Eliva Beauty ");
   return (
     <div className="col-12">
       <div
@@ -32,31 +32,32 @@ function Iletisim() {
 
         <p style={{ fontSize: "medium", textAlign: "left" }}>
               {" "}
-              <a href="mailto:lavinyaankara@gmail.com">
+              <a href="mailto:elivabeautyankara@gmail.com">
                 <ContactMailIcon style={{ fontSize: "x-large" }} />
               </a>
-              &nbsp; lavinyaankara@gmail.com
+              &nbsp; elivabeautyankara@gmail.com
             </p>
             <p style={{ fontSize: "medium", textAlign: "left", }}>
               {" "}
               <a
-                href="tel: +905528179398"
+                href="tel: +905060326506"
                 target="_blank"
                 rel="noopener noreferrer"
               >
                 <WhatsAppIcon style={{ fontSize: "x-large",color:"#25d366" }} />
               </a>
-              &nbsp; <b>0552 817 93 98</b> <FontAwesomeIcon icon="coffee" size="lg" />
+              &nbsp; <b>0506 032 65 06</b> <FontAwesomeIcon icon="coffee" size="lg" />
             </p>
             <p style={{ fontSize: "medium", textAlign: "left" }}>
               <a
-                href="https://goo.gl/maps/kvSBfUQnSYkR1hWa9"
+                href="https://goo.gl/maps/VsnbDNwofeigAHJo8"
                 target="_blank"
                 rel="noopener noreferrer"
               >
                 <LocationOnIcon style={{ fontSize: "x-large",color:"#c71535" }} />
               </a>
-              &nbsp; Remzi Oğuz Arık Mahallesi Tunalı Hilmi Caddesi Tunca Apartmanı No:90 Daire:17 Çankaya / ANKARA
+              &nbsp; Kocatepe Mahallesi Meşrutiyet Caddesi Özay Apartmanı No:32 Kat:2 Daire:4 Çankaya / ANKARA
+           
               
             </p>
       </div>
@@ -83,7 +84,7 @@ function Iletisim() {
             referrerpolicy: "no-referrer-when-downgrade",
             ariaHidden: "false",
             tabIndex: "0",
-            border: "2px #E59026 solid",
+            border: "2px #b22e86 solid",
             paddingBottom: "0.5rem",
             paddingTop: "0.5rem",
           }}

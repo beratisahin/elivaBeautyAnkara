@@ -10,7 +10,7 @@ import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import { Link } from "react-router-dom";
 import PhoneIcon from "@material-ui/icons/Phone";
 import LocationOnIcon from "@material-ui/icons/LocationOn";
-import MainLogo2 from "../header/lavinyaLogo.png";
+import MainLogo2 from "../header/elivaBeautyLogo.png";
 
 import React, { Component } from "react";
 
@@ -35,8 +35,8 @@ export default class Foooter extends Component {
           >
             <a
               href="/"
-              title="Ankara Lavinya Golden Güzellik Merkezi"
-              alt="Ankara Lavinya Golden Güzellik Merkezi"
+              title="Ankara Eliva Beauty"
+              alt="Ankara Eliva Beauty"
             >
               <img
                 src={MainLogo2}
@@ -60,7 +60,7 @@ export default class Foooter extends Component {
               }}
             >
               {" "}
-              Ankara Lavinya Golden Güzellik Merkezi olarak alanında uzman
+              Ankara Eliva Beauty olarak alanında uzman
               personellerimizle siz değerli danışanlarımıza lazer epilasyon,
               kavitasyon, bölgesel incelme, slim zayıflama, kirpik lifting,
               yosun peeling, hydrafacial cilt bakımı vb alanlarında
@@ -74,7 +74,7 @@ export default class Foooter extends Component {
             className="col-lg-4 col-md-6 col-sm-6 col-12"
             style={{ fontSize: "12px", marginBottom: "2rem" }}
           >
-            <b style={{ color: "#E59026", fontSize: "18px" }}>
+            <b style={{ color: "#b22e86", fontSize: "18px" }}>
               Çalışma Takvimi
             </b>
             <hr />
@@ -119,9 +119,9 @@ export default class Foooter extends Component {
             style={{ fontSize: "15px", marginBottom: "2rem" }}
           >
             <p
-              style={{ color: "#E59026", fontWeight: "bold", fontSize: "18px" }}
+              style={{ color: "#b22e86", fontWeight: "bold", fontSize: "18px" }}
             >
-              Ankara Lavinya Golden Güzellik Merkezi
+              Ankara Eliva Beauty
             </p>
             <hr />
             <a
@@ -133,7 +133,7 @@ export default class Foooter extends Component {
               <FacebookIcon className="icon" style={{ fontSize: "24px" }} />
             </a>
             <a
-              href="https://www.instagram.com/lavinyagoldenankara/"
+              href="https://www.instagram.com/elivabeautyankara/"
               target="_blank"
               rel="noopener noreferrer"
               style={{ float: "left", textIndent: "10px" }}
@@ -144,7 +144,7 @@ export default class Foooter extends Component {
               />
             </a>
             <a
-              href="https://wa.me/+905528179398"
+              href="https://wa.me/+905060326506"
               target="_blank"
               rel="noopener noreferrer"
               style={{ float: "left", textIndent: "10px" }}
@@ -155,7 +155,7 @@ export default class Foooter extends Component {
               />
             </a>
             <a
-              href="tel: +905528179398"
+              href="tel: +905060326506"
               target="_blank"
               rel="noopener noreferrer"
               style={{ float: "left", textIndent: "10px" }}
@@ -177,31 +177,31 @@ export default class Foooter extends Component {
             <br />
             <p style={{ fontSize: "14px", textAlign: "left" }}>
               {" "}
-              <a href="mailto:lavinyaankara@gmail.com">
+              <a href="mailto:elivabeautyankara@gmail.com">
                 <EmailIcon style={{ fontSize: "24px" }} />
               </a>
-              &nbsp; lavinyaankara@gmail.com
+              &nbsp; elivabeautyankara@gmail.com
             </p>
             <p style={{ fontSize: "14px", textAlign: "left" }}>
               {" "}
               <a
-                href="tel: +905528179398"
+                href="tel: +905060326506"
                 target="_blank"
                 rel="noopener noreferrer"
               >
                 <SettingsPhoneIcon style={{ fontSize: "24px" }} />
               </a>
-              &nbsp; 0552 817 93 98 <FontAwesomeIcon icon="coffee" size="lg" />
+              &nbsp; 0506 032 65 06 <FontAwesomeIcon icon="coffee" size="lg" />
             </p>
             <p style={{ fontSize: "14px", textAlign: "left" }}>
               <a
-                href="https://goo.gl/maps/kvSBfUQnSYkR1hWa9"
+                href="https://goo.gl/maps/VsnbDNwofeigAHJo8"
                 target="_blank"
                 rel="noopener noreferrer"
               >
                 <HomeIcon style={{ fontSize: "24px" }} />
               </a>
-              &nbsp; Remzi Oğuz Arık Mahallesi Tunalı Hilmi Caddesi Tunca Apartmanı No:90 Daire:17
+              &nbsp;Kocatepe Mahallesi Meşrutiyet Caddesi Özay Apartmanı No:32 Kat:2 Daire:4
               <b style={{ paddingLeft: "10px" }}>Çankaya / ANKARA</b>{" "}
             </p>
           </div>
@@ -248,7 +248,7 @@ export default class Foooter extends Component {
 
           <div className="roof-phone">
             <a
-              href="tel: +905528179398" 
+              href="tel: +905060326506" 
               className="phone_float"
               target="_blank"
               rel="noopener noreferrer"
@@ -259,7 +259,7 @@ export default class Foooter extends Component {
 
           <div className="roof-whatsapp">
             <a
-              href="https://wa.me/+905528179398"
+              href="https://wa.me/+905060326506"
               className="whatsapp_float"
               target="_blank"
               rel="noopener noreferrer"

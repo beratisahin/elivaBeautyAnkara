@@ -4,7 +4,7 @@ import useDocumentTitle from "../../useDocumentTitle.js";
 import Title from "../title/Title";
 
 function Hakkimizda() {
-  useDocumentTitle("Ankara Lavinya Golden Güzellik Merkezi");
+  useDocumentTitle("Ankara Eliva Beauty");
   return (
     <div className="col-12">
       <div
@@ -43,7 +43,7 @@ function Hakkimizda() {
           </p>
 
           <p class="hizmetyazi">
-            Ankara Lavinya Golden Güzellik Merkezi olarak Lazer Epilasyon, G5
+            Ankara Eliva Beauty olarak Lazer Epilasyon, G5
             Masajı, Kavitasyon, Kirpik Lifting, Yosun Peeling,
             Hydrafacial Cilt Bakımı hizmetlerimiz mevcuttur. Kampanyalarımız ve
             detaylar için sosyal medya hesaplarımızı takipte kalın. Ankara

@@ -28,13 +28,13 @@ export default class Taslak extends Component {
             </a>
             <div class="icon-links">
               <a href="#">
-                <i class="fa-solid fa-leaf" style={{ color: "#E59026" }}></i>
+                <i class="fa-solid fa-leaf" style={{ color: "#b22e86" }}></i>
               </a>
               <a href="#">
-                <i class="fa-solid fa-crown" style={{ color: "#E59026" }}></i>
+                <i class="fa-solid fa-crown" style={{ color: "#b22e86" }}></i>
               </a>
               <a href="#">
-                <i class="fas fa-heart" style={{ color: "#E59026" }}></i>
+                <i class="fas fa-heart" style={{ color: "#b22e86" }}></i>
               </a>
             </div>
           </div>

@@ -17,7 +17,7 @@ function Home() {
             textAlign: "center",
             fontSize: "x-large",
             marginTop: "1rem",
-            color: "#E59026",
+            color: "#b22e86",
             fontFamily: "sans-serif",
           }}
         >
@@ -47,7 +47,7 @@ function Home() {
           style={{
             textAlign: "center",
             fontSize: "x-large",
-            color: "#E59026",
+            color: "#b22e86",
             fontFamily: "sans-serif",
           }}
         >
@@ -67,7 +67,7 @@ function Home() {
         >
           <p className="harita_baslik">Lokasyonumuz</p>
           <iframe
-            src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d12242.481537682064!2d32.8603997!3d39.9051308!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x14d34fb21fdc10c7%3A0x2b0faa7595dfec08!2sLavinya%20Golden%20Ankara!5e0!3m2!1str!2str!4v1677537876831!5m2!1str!2str"
+            src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d195841.18578317628!2d32.649475147605656!3d39.91860156938542!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0xad58f6dd311af5a7%3A0xee9f3d89cb9d9ff4!2sE&#39;liva%20Beauty%20Ankara!5e0!3m2!1str!2str!4v1678019634937!5m2!1str!2str"
             className="googleharita"
             style={{
               width: "100%",
@@ -77,7 +77,7 @@ function Home() {
               referrerpolicy: "no-referrer-when-downgrade",
               ariaHidden: "false",
               tabIndex: "0",
-              border: "2px #E59026 solid",
+              border: "2px #b22e86 solid",
               paddingBottom: "0.5rem",
               paddingTop: "0.5rem",
             }}

@@ -5,7 +5,7 @@ import Title from "../title/Title";
 import Instagram from "./lavinyaProfil.webp"
 
 export default function FotografVideo() {
-    useDocumentTitle('Fotoğraflar- Ankara Lavinya Golden Güzellik Merkezi');
+    useDocumentTitle('Fotoğraflar- Ankara Eliva Beauty');
     return (
         <div className="col-12">
           <div className="card m-4" style={{align:"center",backgroundColor:"#f8f7fb",borderRadius:"5px"}}>
@@ -13,7 +13,7 @@ export default function FotografVideo() {
                     page_title="Fotoğraf ve Video"
                />
                 <br/>
-                <p className="instaLink" style={{textAlign:"center",color:"gray"}}>Detaylı güncel fotoğraf ve videolar için <a className="instagram"  href="https://www.instagram.com/lavinyagoldenankara/" target="_blank">Ankara Lavinya Golden Güzellik Merkezi</a> instagram profilimizi ziyaret edebilirsiniz. </p>
+                <p className="instaLink" style={{textAlign:"center",color:"gray"}}>Detaylı güncel fotoğraf ve videolar için <a className="instagram"  href="https://www.instagram.com/elivabeautyankara/" target="_blank">Ankara Eliva Beauty</a> instagram profilimizi ziyaret edebilirsiniz. </p>
                 <img src={Instagram} style={{width:"95%",height:"auto"}}></img>
             </div>
             

@@ -1,6 +1,6 @@
 import React, { Component } from 'react'
 import "./Title.css";
-import S1 from "../header/menuLogo.webp";
+import S1 from "../header/menuLogo.png";
 
 
 

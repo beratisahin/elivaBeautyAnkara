@@ -5,14 +5,14 @@
 }
 
 .gonder:hover {
-    background-color: #af832b !important;
+    background-color: #de358c !important;
 }
 .contactInfo{
     text-align: center;
     font-size: large;
     border-radius: 5px;
     background-color: #DCDCDC;
-    color:#E59026;
+    color:#b22e86;
     margin-bottom: 2rem !important;
 }
 

@@ -53,7 +53,7 @@ header {
 .menu li a {
   display: block;
   text-decoration: none;
-  color: #E59026 ; /*2E6772  #168B80*/ 
+  color: #b22e86 ; /*2E6772  #168B80*/ 
   padding: 1em 1.5em;
   font-size: smaller;
   font-weight: bold;
@@ -130,8 +130,8 @@ header {
 }
 
 .LavinyaLogo{
-  width:24rem !important;
-  height:12rem !important;
+  width: 90% !important;
+  height:10rem !important;
   
   
 }
@@ -208,7 +208,7 @@ header {
     width: 2em;
     height: 0.25em;
     display: block;
-    background-color: #E59026 !important;
+    background-color: #b22e86 !important;
     /*background: var(--light);*/
     position: absolute;
     right: 1rem !important;
@@ -262,11 +262,13 @@ header {
   }
 
   .LavinyaLogo{
-    width:18rem !important;
-    height:10rem !important;
+    width: 85% !important;
+    height: 6rem !important;
     float: left !important;
-    margin-left: -12rem !important;
+    /* /margin-left: -12rem !important;
     margin-top: -1rem !important;
+    */
+    
   }
  
 }
