@@ -67,7 +67,7 @@ function Home() {
         >
           <p className="harita_baslik">Lokasyonumuz</p>
           <iframe
-            src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d195841.18578317628!2d32.649475147605656!3d39.91860156938542!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0xad58f6dd311af5a7%3A0xee9f3d89cb9d9ff4!2sE&#39;liva%20Beauty%20Ankara!5e0!3m2!1str!2str!4v1678019634937!5m2!1str!2str"
+            src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3691.9248932925534!2d32.85399595257102!3d39.918636518271725!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0xad58f6dd311af5a7%3A0xee9f3d89cb9d9ff4!2sE&#39;liva%20Beauty%20Ankara!5e0!3m2!1str!2str!4v1678027358317!5m2!1str!2str"
             className="googleharita"
             style={{
               width: "100%",

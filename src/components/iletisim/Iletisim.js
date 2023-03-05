@@ -56,7 +56,7 @@ function Iletisim() {
               >
                 <LocationOnIcon style={{ fontSize: "x-large",color:"#c71535" }} />
               </a>
-              &nbsp; Kocatepe Mahallesi Meşrutiyet Caddesi Özay Apartmanı No:32 Kat:2 Daire:4 Çankaya / ANKARA
+              &nbsp; Kocatepe Mahallesi Meşrutiyet Caddesi Özay Apartmanı No:32 Kat:2 Daire:4 <br/>Çankaya / ANKARA
            
               
             </p>
@@ -74,7 +74,7 @@ function Iletisim() {
 
       <div class="col-lg-6 col-md-6 col-sm-12 col-12">
         <iframe
-          src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d12242.481537682064!2d32.8603997!3d39.9051308!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x14d34fb21fdc10c7%3A0x2b0faa7595dfec08!2sLavinya%20Golden%20Ankara!5e0!3m2!1str!2str!4v1677537876831!5m2!1str!2str"
+          src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3691.9248932925534!2d32.85399595257102!3d39.918636518271725!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0xad58f6dd311af5a7%3A0xee9f3d89cb9d9ff4!2sE&#39;liva%20Beauty%20Ankara!5e0!3m2!1str!2str!4v1678027358317!5m2!1str!2str"
           className="googleharita"
           style={{
             width: "100%",
