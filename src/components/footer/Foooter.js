@@ -42,8 +42,8 @@ export default class Foooter extends Component {
                 src={MainLogo2}
                 alt="logo"
                 style={{
-                  width: "24rem",
-                  height: "12rem",
+                  width: "90%",
+                  height: "30%",
                   display: "block",
                   align: "center",
                   margin: "auto",
