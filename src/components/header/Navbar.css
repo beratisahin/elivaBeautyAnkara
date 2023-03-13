@@ -130,8 +130,8 @@ header {
 }
 
 .LavinyaLogo{
-  width: 75% !important;
-  height:10rem !important;
+  width: 30rem !important;
+  height:8rem !important;
   
   
 }
@@ -262,7 +262,7 @@ header {
   }
 
   .LavinyaLogo{
-    width: 85% !important;
+    width: 75% !important;
     height: 6rem !important;
     float: left !important;
     /* /margin-left: -12rem !important;
