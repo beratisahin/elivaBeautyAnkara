@@ -14,9 +14,6 @@ import k7 from "./kampanyalar/7.webp";
 import k8 from "./kampanyalar/8.webp";
 
 
-
-
-
 import KampComp from "./KlinikComp.js";
 
 
