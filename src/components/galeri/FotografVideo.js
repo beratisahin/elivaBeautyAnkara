@@ -2,7 +2,7 @@ import "./FotografVideo.css";
 import React from 'react';
 import useDocumentTitle from "../../useDocumentTitle";
 import Title from "../title/Title";
-import Instagram from "./elivaIG.png"
+import Instagram from "./elivaIG.webp"
 
 export default function FotografVideo() {
     useDocumentTitle('Fotoğraflar- Ankara Eliva Beauty');
