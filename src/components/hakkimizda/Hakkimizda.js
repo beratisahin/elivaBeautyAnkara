@@ -28,7 +28,7 @@ function Hakkimizda() {
             profosyenel ürünlerle kaliteden ödün vermeden uygulanmaktadır.
             Ayrıca en son teknoloji Lazer Epilasyon Cihazı ile istenmeyen
             tüylerden en kısa sürede kurtularak, pürüzsüz bir cilde
-            kavuşuyorsunuz. Ailenizden biri olmayı amaçlayan Ankara Lavinya Golden
+            kavuşuyorsunuz. Ailenizden biri olmayı amaçlayan Ankara Eliva
             Güzellik Salonu; son derece güvenli, hijyenik ve modern olan ve aynı
             zamanda zevkli bir tasarıma sahip olan salonu ile değerli
             müşterilerine kendilerini evlerinde hissedecekleri sıcak, samimi ve

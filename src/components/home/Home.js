@@ -11,18 +11,7 @@ function Home() {
   return (
     <div>
       <div className="row">
-        <h2
-          className="doktorlarTitle"
-          style={{
-            textAlign: "center",
-            fontSize: "x-large",
-            marginTop: "1rem",
-            color: "#b22e86",
-            fontFamily: "sans-serif",
-          }}
-        >
-          Kayıtlarımız Başlamıştır
-        </h2>
+       
         <Klinik />
       </div>
 
