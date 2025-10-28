@@ -14,7 +14,7 @@ export default function FotografVideo() {
                />
                 <br/>
                 <p className="instaLink" style={{textAlign:"center",color:"gray"}}>Detaylı güncel fotoğraf ve videolar için <a className="instagram"  href="https://www.instagram.com/elivabeautyankara/" target="_blank">Ankara Eliva Beauty</a> instagram profilimizi ziyaret edebilirsiniz. </p>
-                <img src={Instagram} style={{width:"95%",height:"auto"}}> </img>
+                <img src={Instagram} style={{width:"95%",height:"auto"}} alt="Eliva Beauty Instagram" />
             </div>
             
         </div>
