@@ -165,15 +165,7 @@ export default class Foooter extends Component {
                 style={{ fontSize: "24px" }}
               />
             </a>
-            <a
-              href="https://www.youtube.com/"
-              target="_blank"
-              rel="noopener noreferrer"
-              style={{ float: "left", textIndent: "10px", color: "red" }}
-            >
-              <YouTubeIcon className="icon" style={{ fontSize: "24px" }} />
-            </a>
-            <br />
+          
             <br />
             <p style={{ fontSize: "14px", textAlign: "left" }}>
               {" "}
