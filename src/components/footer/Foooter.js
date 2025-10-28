@@ -167,6 +167,7 @@ export default class Foooter extends Component {
             </a>
           
             <br />
+            <br />
             <p style={{ fontSize: "14px", textAlign: "left" }}>
               {" "}
               <a href="mailto:elivabeautyankara@gmail.com">
